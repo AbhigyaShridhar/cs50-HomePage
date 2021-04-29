@@ -1,0 +1,93 @@
+#everything{
+  margin: auto;
+  width: 50%;
+}
+
+#search-bar{
+  margin-left: 20px;
+}
+
+#link-1{
+  position: absolute;
+  top: 8px;
+  right: 18px;
+  font-size: 18px;
+  width: 140px;
+}
+
+#link-2{
+  position: absolute;
+  top: 8px;
+  right: 180px;
+  font-size: 18px;
+  width: 145px;
+}
+
+#text{
+  border-radius: 25px;
+  padding: 15px;
+  width: 600px;
+  height: 5px;
+}
+
+#button1{
+  border-radius: 25px;
+  padding: 1px;
+  height: 1%;
+  margin: auto;
+  font-size: 15px;
+  text-align: center;
+  position: relative;
+  right: -140px;
+  width: fit-content;
+}
+
+#button2{
+  border-radius: 25px;
+  padding: 1px;
+  width: fit-content;
+  height: 1%;
+  margin: auto;
+  font-size: 15px;
+  text-align: center;
+  position: relative;
+  right: -200px;
+}
+
+#image{
+  margin: auto;
+  width: 40%;
+  position: relative;
+  right: -400px;
+}
+
+#heading{
+  margin: auto;
+  width: 50%;
+  height: 50%;
+  border-top: 300px;
+  position: relative;
+  right: -350px;
+}
+
+#button{
+  border-radius: 25px;
+  padding: 1px;
+  width: fit-content;
+  height: 1%;
+  margin: auto;
+  font-size: 15px;
+  text-align: center;
+  position: relative;
+  right: -350px;
+}
+
+#Atext1{
+  position: relative;
+  right: -150px;
+}
+
+#bar{
+  width: 400px;
+  height: 25px;
+}
